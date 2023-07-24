@@ -64,6 +64,3 @@ Welcome to Hangman!
 
 **Note:**
 Don't forget to add some graphical elements, for example, drawing the hangman and the hanged person depending on the number of remaining attempts. This will make the game more engaging and visually appealing.
-
----
-Please note that the game implementation provided in the example output is a textual representation. You can enhance the game by adding graphics, sound effects, or implementing it as a graphical application if you are comfortable with GUI programming.
