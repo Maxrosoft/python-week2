@@ -1,4 +1,4 @@
-**Task: Simple Calculator with Conditions**
+# Task: Simple Calculator with Conditions
 
 **Objective:** Create a simple calculator that performs arithmetic operations based on user input. Write a program in a programming language (e.g., Python) that includes the following topics:
 
