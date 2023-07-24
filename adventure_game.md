@@ -1,6 +1,6 @@
 # Task: Text-Based Adventure Game "Journey to the Unknown Lands"
 
-**Objective:** Create a text-based adventure game where the player makes decisions and explores unknown lands. Write a program in a programming language (e.g., Python) that includes the following topics:
+**Objective:** Create a text-based adventure game where the player makes decisions and explores unknown lands. Write a program in a programming Python that includes the following topics:
 
 1. Basic concepts: variables, data types, operators, input, and output of data.
 2. Conditional statements: if, elif, else.
@@ -13,7 +13,7 @@
 
 3. Depending on the player's choices, alter the course of the story, providing various opportunities and obstacles. For example, if the player chooses to venture into the forest, they might encounter a dangerous creature, while exploring a cave might lead to the discovery of a valuable artifact.
 
-4. Keep track of the player's progress through the lands and display their current state (e.g., health, equipment, etc.).
+4. Keep track of the player's progress through the lands and display their current state (health).
 
 5. Implement conditions for both successful completion (e.g., finding the exit from the unknown lands) and failure (e.g., reaching zero health or making the wrong decision).
 
@@ -28,13 +28,15 @@ You awaken in an unfamiliar world surrounded by breathtaking nature and several 
 1. Head into the forest.
 2. Venture into the mountains.
 3. Walk across the plains.
+Health: 100
 
-Choose your path: 2
+Choose your next step: 2
 
 You decide to venture into the mountains. The path is challenging, but the majestic views are awe-inspiring.
 
 1. Climb higher.
 2. Search for a cave.
+Health: 100
 
 Choose your next step: 1
 
@@ -42,8 +44,9 @@ You successfully climb to the mountain's peak and discover an abandoned temple. 
 
 1. Take the artifact with you.
 2. Leave the artifact where it is.
+Health: 100
 
-Choose your action: 1
+Choose your next step: 1
 
 You take the artifact with you. It will be invaluable for your future adventures.
 
