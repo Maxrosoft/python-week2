@@ -1,6 +1,6 @@
 # Task: Task Manager
 
-**Objective:** Create a program that serves as a task manager, allowing the user to add, view, mark as completed, and delete tasks. Write a program in a programming language (e.g., Python) that includes the following topics:
+**Objective:** Create a program that serves as a task manager, allowing the user to add, view, mark as completed, and delete tasks. Write a program in Python that includes the following topics:
 
 1. Basic concepts: variables, data types, operators, input, and output of data.
 2. Loops: while.
@@ -69,7 +69,31 @@ Choose a task to mark as completed: 1
 
 Task "Plant flowers in the garden" marked as completed!
 
-...
+=== Task Manager ===
+
+1. View the current task list
+2. Add a new task
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+
+Choose an action: 4
+
+Choose a task to delete: 1
+
+Task "Plant flowers in the garden" deleted.
+
+=== Task Manager ===
+
+1. View the current task list
+2. Add a new task
+3. Mark a task as completed
+4. Delete a task
+5. Exit
+
+Choose an action: 5
+
+The exit was successful. Have a nice day!
 ```
 
 **Note:**
