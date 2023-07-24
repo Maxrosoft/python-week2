@@ -1,6 +1,6 @@
 # Task: Text-Based Adventure Game "Journey to the Unknown Lands"
 
-**Objective:** Create a text-based adventure game where the player makes decisions and explores unknown lands. Write a program in a programming Python that includes the following topics:
+**Objective:** Create a text-based adventure game where the player makes decisions and explores unknown lands. Write a program in Python that includes the following topics:
 
 1. Basic concepts: variables, data types, operators, input, and output of data.
 2. Conditional statements: if, elif, else.
