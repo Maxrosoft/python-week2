@@ -53,7 +53,7 @@ Task "Plant flowers in the garden" added successfully!
 Choose an action: 1
 
 Current task list:
-1. [ ] Plant flowers in the garden
+1. [uncompleted] Plant flowers in the garden
 
 === Task Manager ===
 
