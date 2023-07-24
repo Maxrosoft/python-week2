@@ -4,7 +4,6 @@
 
 1. Basic concepts: variables, data types, operators, input, and output.
 2. Conditional statements: if, else.
-3. Functions.
 
 **Description:**
 1. Ask the user to enter an amount of money in a specific currency (e.g., dollars, euros, pounds, etc.).
